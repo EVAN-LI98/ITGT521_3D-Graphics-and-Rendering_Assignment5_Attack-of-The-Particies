@@ -1,0 +1,34 @@
+﻿  PlaneCurveSmoke.cpp
+E:\玛希隆课程\ITGT521\Assignment5\Project5\PlaneCurveSmoke.cpp(1040,15): warning C4305: “初始化”: 从“double”到“float”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\PlaneCurveSmoke.cpp(1057,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  scene_objects.cpp
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(12,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(13,58): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(14,57): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(15,59): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(16,53): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(17,53): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(18,60): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(19,57): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(20,54): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(21,52): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(22,52): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(23,51): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(24,53): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(25,52): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(26,58): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(27,60): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(30,50): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(31,57): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(32,64): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(33,55): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(34,53): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(35,61): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(37,55): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(38,55): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_objects.cpp(211,29): warning C4101: “mag”: 未引用的局部变量
+  scene_renderer.cpp
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_renderer.cpp(15,61): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment5\Project5\scene_renderer.cpp(16,59): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+  正在生成代码...
+  Project5.vcxproj -> E:\玛希隆课程\ITGT521\Assignment5\Project5\Debug\Project5.exe
