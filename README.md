@@ -8,5 +8,6 @@ For this assignment：
 Keyboard control
 
  ------------------------------------------------------> 
-     x   = Toggle constraint drawing
-     c   = Toggle curve drawing  
+ 
+       x   = Toggle constraint drawing
+       c   = Toggle curve drawing  
